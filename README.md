@@ -1,8 +1,8 @@
 <h1> Owen Lloyd-Jones </h1>
-<br>
-<br>
-<h2> Ethical Hacking and Cyber Security </h2>
 
+<h2> Ethical Hacking and Cyber Security </h2>
+<br>
+<br>
 
 ✨  ✨ 
 
