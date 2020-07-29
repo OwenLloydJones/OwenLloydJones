@@ -1,19 +1,13 @@
-<h1> Owen Lloyd-Jones </h1>
+# ✨ Hi, I'm Owen Lloyd-Jones ✨
 
-<h2> Ethical Hacking and Cyber Security </h2>
-<br>
-<br>
+<img src="https://raw.githubusercontent.com/OwenLloydJones/OwenLloydJones/OLJ-Banner.png" alt="Banner - Owen Lloyd-Jones. Cyber Security, Ethical Hakcing & Programming.">
 
-✨  ✨ 
+I am Currently a University Student on a placement year at Computacenter, working within the Cyber Defence function known as Group Information Assurance. Although my job is not hugely coding oriented, i try where ever i can to adapt the tools used within the team to overcome the challenges our function faces within the world of security.
 
-Here are some ideas to get you started:
+I will soon be returning to Coventry University to complete my final year of study and take on the challenge of my dissertation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👨‍💻 I’m currently working on: a Python Script that utilises the Shodan API to create a powerful tool for business.
+- 🐍 I’m currently learning : Python 
+- 📫 How to reach me: I'm happy to connect on LinkedIn and collaborate.
+- ⚡ Fun fact: Every couple of years i get tasked with a new challenge in coding, I learn a new language to adpat to the situation and then propmtly forget the syntax a year later, hence the wide range of languages seen on my page.
 
