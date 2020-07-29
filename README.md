@@ -1,6 +1,6 @@
 # ✨ Hi, I'm Owen Lloyd-Jones ✨
 
-<img src="https://raw.githubusercontent.com/OwenLloydJones/OwenLloydJones/OLJ-Banner.png" alt="Banner - Owen Lloyd-Jones. Cyber Security, Ethical Hakcing & Programming.">
+<img src="https://github.com/OwenLloydJones/OwenLloydJones/blob/master/OLJ-Banner.png" alt="Banner - Owen Lloyd-Jones. Cyber Security, Ethical Hakcing & Programming.">
 
 I am Currently a University Student on a placement year at Computacenter, working within the Cyber Defence function known as Group Information Assurance. Although my job is not hugely coding oriented, i try where ever i can to adapt the tools used within the team to overcome the challenges our function faces within the world of security.
 
